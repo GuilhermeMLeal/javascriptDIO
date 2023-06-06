@@ -84,7 +84,7 @@ function main(){
 }
 main();*/
 
-function calcularImc(peso, altura){
+/*function calcularImc(peso, altura){
     return peso / Math.pow(altura,2)
 }
 
@@ -110,3 +110,4 @@ function classificarImc(imc){
     console.log(classificarImc(imc))
 
 })() //função imediatamente invocável
+*/
